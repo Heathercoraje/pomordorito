@@ -25,14 +25,14 @@ Below, there are prototype images created on Figma
 **Timer**
 
 * [ ] (pomodoro timer) user can set timer by clicking setting button (25, 50 for working time 5/10 for break)
-* [ ](pomodoro timer) once user choose working time/ break time, it decides which block to use for tetris
+* [ ] (pomodoro timer) once user choose working time/ break time, it decides which block to use for tetris
 * [ ] (pomodoro timer) user can put name of task on `Enter your task form`
 * [ ] (tetris chart) chart is has one block accumulated as default
 * [ ] (tetris chart) total time is set `00:00`
 
 * [ ] (pomodoro timer) before user clicks START button and a STOP button is disabled
 * [ ] (pomodoro timer) after user clicks START button and a STOP button is abled
-* [ ](pomodoro timer) name of task will be displayed under the timer
+* [ ] (pomodoro timer) name of task will be displayed under the timer
 * [ ] (pomodoro timer) user clicks START button and START button changes to PAUSE
 * [ ] (pomodoro timer) user clicks PAUSE button, timer stops and PAUSE button changes to RESUME
 * [ ] (pomodoro timer) user clicks PAUSE button, STOP button continues as STOP
