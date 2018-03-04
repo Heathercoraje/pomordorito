@@ -115,3 +115,6 @@ Below, there are prototype images created on Figma
 <img src="assets/architecture.png" width="400" display="inline">
 
 ### Flowchart
+<img src="assets/log in_.jpeg" width="400" display="inline">
+<img src="assets/sign up.jpg" width="400" display="inline">
+<img src="assets/analystic.jpeg" width="400" display="inline">
